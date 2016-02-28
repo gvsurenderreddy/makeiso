@@ -1,7 +1,7 @@
 #! python3
 #! /usr/bin/python3
 
-# This is a test of the sync to GitHub
+# This is a test of the sync down to PC
 
 import os, sys, subprocess, logging, traceback
 
