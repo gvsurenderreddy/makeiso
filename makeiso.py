@@ -2,7 +2,7 @@
 #! /usr/bin/python3
 
 # This is a test of the sync to GitHub
-# From ubuntu to github
+# Windows 10 to GitHub
 
 import os, sys, subprocess, logging, traceback
 
