@@ -3,6 +3,7 @@
 
 # This is a test of the sync to GitHub
 # Windows 10 to GitHub
+# ubuntu to Git
 
 import os, sys, subprocess, logging, traceback
 
