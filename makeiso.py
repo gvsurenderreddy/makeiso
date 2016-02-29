@@ -3,7 +3,7 @@
 
 # This is a test of the sync to GitHub
 
-import os, sys, subprocess, logging, traceback
+import os, sys, logging, traceback
 
 logging.basicConfig(filename='./MakeISO.log', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 
