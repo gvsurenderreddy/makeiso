@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../allPhoneNumbers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../boxPrint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../characterCount" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../debugLogging" vcs="Git" />
   </component>
 </project>

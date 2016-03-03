@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../allPhoneNumbers/.idea/allPhoneNumbers.iml" filepath="$PROJECT_DIR$/../allPhoneNumbers/.idea/allPhoneNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../boxPrint/.idea/boxPrint.iml" filepath="$PROJECT_DIR$/../boxPrint/.idea/boxPrint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../characterCount/.idea/characterCount.iml" filepath="$PROJECT_DIR$/../characterCount/.idea/characterCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../debugLogging/.idea/debugLogging.iml" filepath="$PROJECT_DIR$/../debugLogging/.idea/debugLogging.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/makeiso.iml" filepath="$PROJECT_DIR$/.idea/makeiso.iml" />
     </modules>
   </component>
