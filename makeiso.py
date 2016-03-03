@@ -109,8 +109,8 @@ os.chdir(working_dir + '/extract-cd')
 os.system("sudo mkisofs -D -r -V '$IMAGE_NAME' -cache-inodes -J -l -b isolinux/isolinux.bin -c isolinux/boot.cat -no-emul-boot -boot-load-size 4 -boot-info-table -o ../../latest_version.iso .")
 
 
-print ('Enter name of iso image file:')
-isoname = input()
+# print ('Enter name of iso image file:')
+isoname = input('Enter name of iso image file: ')
 
 #if present_dir != (latest_dir):
 #    logging.info('Change to latest version dir.')
